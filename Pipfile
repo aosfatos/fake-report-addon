@@ -10,6 +10,7 @@ django-cors-headers = "*"
 gunicorn = "*"
 django = "*"
 whitenoise = "*"
+python-decouple = "*"
 
 [dev-packages]
 ipdb = "*"
