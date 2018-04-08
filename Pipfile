@@ -11,6 +11,7 @@ gunicorn = "*"
 django = "*"
 whitenoise = "*"
 python-decouple = "*"
+djangorestframework = "*"
 
 [dev-packages]
 ipdb = "*"
