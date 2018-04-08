@@ -7,6 +7,7 @@ name = "pypi"
 dj-database-url = "*"
 django-cors-headers = "*"
 "psycopg2" = "*"
+gunicorn = "*"
 
 [dev-packages]
 ipdb = "*"
